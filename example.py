@@ -17,6 +17,6 @@ while True:
         elif var=="n":
             break
         else:
-            print("You can't even select between 2 Options! DumbAss!")
+            print("You can't even select between 2 options! Dumbass!")
     except:
-        print("Evil Insult Generator is down,you may try again later.")
+        print("Evil Insult Generator is down, you may try again later, dickhead.")
